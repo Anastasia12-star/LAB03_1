@@ -5,3 +5,4 @@ int b = int.Parse(Console.ReadLine());
 Console.WriteLine($"Cумма: {a + b}");
 Console.WriteLine($"Разность: {a - b}");
 Console.WriteLine($"Произведение: {a * b}");
+Console.WriteLine($"Среднее арифметическое: {(a + b) / 2.0} ");
